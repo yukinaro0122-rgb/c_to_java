@@ -1,4 +1,4 @@
-# c_to_python
+# c_to_Java
 
 c資産をJava化するために使用するリポジトリです。
 
